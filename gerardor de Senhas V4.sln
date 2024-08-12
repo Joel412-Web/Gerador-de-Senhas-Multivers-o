@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gerardor de Senhas V4", "gerardor de Senhas V4\gerardor de Senhas V4.csproj", "{4D044CF2-6FCC-473F-937C-E03F990D0E58}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gerador de senhas Versão 4 Multiversão © Dev Joel", "Instalador\Gerador de senhas Versão 4 Multiversão © Dev Joel\Gerador de senhas Versão 4 Multiversão © Dev Joel.vdproj", "{6EA7686C-30C5-4EC4-8A01-E7D9B8F46413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Debug|x64.ActiveCfg = Debug|x64
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Debug|x64.Build.0 = Debug|x64
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Release|x64.ActiveCfg = Release|x64
+		{4D044CF2-6FCC-473F-937C-E03F990D0E58}.Release|x64.Build.0 = Release|x64
+		{6EA7686C-30C5-4EC4-8A01-E7D9B8F46413}.Debug|Any CPU.ActiveCfg = Debug
+		{6EA7686C-30C5-4EC4-8A01-E7D9B8F46413}.Debug|x64.ActiveCfg = Debug
+		{6EA7686C-30C5-4EC4-8A01-E7D9B8F46413}.Release|Any CPU.ActiveCfg = Release
+		{6EA7686C-30C5-4EC4-8A01-E7D9B8F46413}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3CD8A6B-5FF7-4243-9B6E-5528B5167CA0}
+	EndGlobalSection
+EndGlobal
